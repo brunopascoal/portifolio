@@ -11,6 +11,8 @@ Neste repositório estarão disponíveis alguns projetos de estudo pessoais. �
 * [Performance Evaluation Analysis](https://github.com/brunopascoal/performance-evaluation-analysis)
 * [Extract PDF](https://github.com/brunopascoal/extrator-pdf-imagens)
 * [PetshopSalesManager](https://github.com/brunopascoal/PetshopSalesManager)
+* [SistemaDi](https://github.com/brunopascoal/sistema_DI)
+* [sistema_analise_os_abertas](https://github.com/brunopascoal/sistema_analise_os_abertas)
 
 
 
