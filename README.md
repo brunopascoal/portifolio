@@ -11,8 +11,8 @@ Neste repositório estarão disponíveis alguns projetos de estudo pessoais. �
 * [Performance Evaluation Analysis](https://github.com/brunopascoal/performance-evaluation-analysis)
 * [Extract PDF](https://github.com/brunopascoal/extrator-pdf-imagens)
 * [PetshopSalesManager](https://github.com/brunopascoal/PetshopSalesManager)
-* [SistemaDi](https://github.com/brunopascoal/sistema_DI)
-* [sistema_analise_os_abertas](https://github.com/brunopascoal/sistema_analise_os_abertas)
+* [SistemaDI](https://github.com/brunopascoal/sistema_DI)
+* [Sistema AT1](https://github.com/brunopascoal/sistema_analise_os_abertas)
 
 
 
@@ -32,7 +32,7 @@ Além disso, possuo habilidades em PHP e MySQL, o que me permite desenvolver apl
 
 ### Formação Acadêmica
 
-* Cursando Análise e Desenvolvimento de Sistemas Fatec Botucatu
+* Formado em Análise e Desenvolvimento de Sistemas Fatec Botucatu
 
 
 ### Linguagens e Ferramentas
