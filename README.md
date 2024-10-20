@@ -7,13 +7,13 @@ Neste repositório estarão disponíveis alguns projetos de estudo pessoais. �
 
 
 ## Projetos
-* [Internal System](https://github.com/brunopascoal/sistema_interno)
-* [Cars System](https://github.com/brunopascoal/sistema_carros) - [Link Direto](http://54.232.174.133/)
-* [SistemaDI](https://github.com/brunopascoal/sistema_DI)
-* [Sistema AT1](https://github.com/brunopascoal/sistema_analise_os_abertas)
-* [Performance Evaluation Analysis](https://github.com/brunopascoal/performance-evaluation-analysis)
-* [Extract PDF](https://github.com/brunopascoal/extrator-pdf-imagens)
-* [PetshopSalesManager](https://github.com/brunopascoal/PetshopSalesManager)
+* [Blog](https://github.com/brunopascoal/blog)-[Link Direto](Em manutenção)
+* [Internal System](https://github.com/brunopascoal/sistema_interno) -[Link Direto](Em manutenção)
+* [Cars System](https://github.com/brunopascoal/sistema_carros) - [Link Direto](Em manutenção)
+* [SistemaDI](https://github.com/brunopascoal/sistema_DI) - [Link Direto](Em manutenção)
+* [Performance Evaluation Analysis](https://github.com/brunopascoal/performance-evaluation-analysis) - [Link Direto](Em manutenção)
+* [Extract PDF](https://github.com/brunopascoal/extrator-pdf-imagens) - [Link Direto](Em manutenção)
+* [PetshopSalesManager](https://github.com/brunopascoal/PetshopSalesManager) - [Link Direto](Em manutenção)
 
 
 
@@ -21,12 +21,10 @@ Neste repositório estarão disponíveis alguns projetos de estudo pessoais. �
 
 ### Sobre Mim
 
-Sou um profissional dedicado e talentoso, atuando em uma renomada empresa de auditoria onde meu principal papel é organizar e analisar dados. Meu conhecimento em Python me permite criar soluções eficientes e otimizar processos internos, tornando as análises mais rápidas e precisas.
-
-Além disso, possuo habilidades em PHP e MySQL, o que me permite desenvolver aplicações web e gerenciar bancos de dados, contribuindo para aprimorar a infraestrutura tecnológica da empresa em que trabalho. Busco constantemente aprender novas técnicas e aprimorar minhas habilidades para enfrentar os desafios diários do meu trabalho e agregar valor aos projetos em que estou envolvido.
+Sou um profissional com 3 anos de experiência em python. Desenvolvi várias soluções utilizando streamlit, django, banco de dados (MYSQL e PostgreSQL) e scripts de automação.
 
 **Tenho experiência com:**
-* SQL, Python (Pandas, NumPy, Selenium, entre outras)
+* SQL, Python (Django, Streamlit, Pandas, NumPy, Selenium)
 * Databases: MySQL
 * Versionamento de Projetos: Git e Github
 * Especialista IdeaCaseware
