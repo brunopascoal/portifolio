@@ -1,4 +1,3 @@
-
 Neste repositório estarão disponíveis alguns projetos de estudo pessoais. 🚀🧑‍💻
 
 
@@ -7,8 +6,8 @@ Neste repositório estarão disponíveis alguns projetos de estudo pessoais. �
 
 
 ## Projetos
-* [Blog](https://github.com/brunopascoal/blog)-[Link Direto]((https://portifolio-brunopascoal-edd59b16378c.herokuapp.com/))
-* [Data Manipulation](https://github.com/brunopascoal/data_manipulation)-[[Link Direto](https://datamanipulation.streamlit.app/)]
+* [Blog](https://github.com/brunopascoal/blog) -> [Acessar Blog](https://portifolio-brunopascoal-edd59b16378c.herokuapp.com/)
+* [Data Manipulation](https://github.com/brunopascoal/data_manipulation) -> [Acessar Data Manipulation](https://datamanipulation.streamlit.app/)
 * [Internal System](https://github.com/brunopascoal/sistema_interno) -[Link Direto](Em manutenção)
 * [Cars System](https://github.com/brunopascoal/sistema_carros) - [Link Direto](Em manutenção)
 * [SistemaDI](https://github.com/brunopascoal/sistema_DI) - [Link Direto](Em manutenção)
