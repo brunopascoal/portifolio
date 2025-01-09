@@ -1,4 +1,4 @@
-Neste repositório estarão disponíveis alguns projetos de estudo pessoais. 🚀🧑‍💻
+Some personal study projects will be available in this repository. 🚀🧑‍💻
 
 
 * [LinkedIn](https://www.linkedin.com/in/bruno-pascoal/)
