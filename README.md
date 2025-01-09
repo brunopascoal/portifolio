@@ -1,43 +1,33 @@
 Neste repositório estarão disponíveis alguns projetos de estudo pessoais. 🚀🧑‍💻
 
 
-* [LinkedIn](https://www.linkedin.com/in/bruno-pascoal-dos-santos-72b890185/)
+* [LinkedIn](https://www.linkedin.com/in/bruno-pascoal/)
 * [E-mail](bpascoal.santos@gmail.com)
 
-
-## Projetos
-* [CinemaAPI](https://github.com/brunopascoal/cinema-api) - [Link Direto](Em manutenção)
-* [Blog](https://github.com/brunopascoal/blog) - [Link Direto](Em manutenção)
-* [Data Manipulation](https://github.com/brunopascoal/data_manipulation) -> [Acessar Data Manipulation](https://datamanipulation.streamlit.app/)
-* [Internal System](https://github.com/brunopascoal/sistema_interno) - [Link Direto](Em manutenção)
-* [Cars System](https://github.com/brunopascoal/sistema_carros) - [Link Direto](Em manutenção)
-* [SistemaDI](https://github.com/brunopascoal/sistema_DI) - [Link Direto](Em manutenção)
-* [Performance Evaluation Analysis](https://github.com/brunopascoal/performance-evaluation-analysis) - [Link Direto](Em manutenção)
-* [Extract PDF](https://github.com/brunopascoal/extrator-pdf-imagens) - [Link Direto](Em manutenção)
-* [PetshopSalesManager](https://github.com/brunopascoal/PetshopSalesManager) - [Link Direto](Em manutenção)
-
-
+## Projects
+* [CinemaAPI](https://github.com/brunopascoal/cinema-api) - [Direct Link](Under Maintenance)
+* [Blog](https://github.com/brunopascoal/blog) - [Direct Link](Under Maintenance)
+* [Data Manipulation](https://github.com/brunopascoal/data_manipulation) -> [Access Data Manipulation](https://datamanipulation.streamlit.app/)
+* [Internal System](https://github.com/brunopascoal/sistema_interno) - [Direct Link](Under Maintenance)
+* [Cars System](https://github.com/brunopascoal/sistema_carros) - [Direct Link](Under Maintenance)
+* [SistemaDI](https://github.com/brunopascoal/sistema_DI) - [Direct Link](Under Maintenance)
+* [Performance Evaluation Analysis](https://github.com/brunopascoal/performance-evaluation-analysis) - [Direct Link](Under Maintenance)
+* [Extract PDF](https://github.com/brunopascoal/extrator-pdf-imagens) - [Direct Link](Under Maintenance)
+* [PetshopSalesManager](https://github.com/brunopascoal/PetshopSalesManager) - [Direct Link](Under Maintenance)
 
 ----
 
-### Sobre Mim
+### About Me
 
-Sou um profissional com 3 anos de experiência em python. Desenvolvi várias soluções utilizando streamlit, django, banco de dados (MYSQL e PostgreSQL) e scripts de automação.
+I am a professional with 3 years of experience in Python. I have developed several solutions using Streamlit, Django, databases (MySQL and PostgreSQL), and automation scripts.
 
-**Tenho experiência com:**
+**I have experience with:**
 * SQL, Python (Django, Streamlit, Pandas, NumPy, Selenium)
 * Databases: MySQL
-* Versionamento de Projetos: Git e Github
-* Especialista IdeaCaseware
+* Version Control: Git and Github
+* Specialist in IdeaCaseware
 
-### Formação Acadêmica
+### Academic Background
 
-* Formado em Análise e Desenvolvimento de Sistemas Fatec Botucatu
+* Degree in Systems Analysis and Development from Fatec Botucatu
 
-
-### Linguagens e Ferramentas
-
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunopascoal&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" 
-/></p>
