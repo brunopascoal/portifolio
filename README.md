@@ -5,6 +5,7 @@ Some personal study projects will be available in this repository. 🚀🧑‍�
 * [E-mail](bpascoal.santos@gmail.com)
 
 ## Projects
+* [ParkingFast](https://github.com/brunopascoal/parking_fast) - [Direct Link](https://parking.brunopascoal.tech/)
 * [CinemaAPI](https://github.com/brunopascoal/cinema-api) - [Direct Link](Under Maintenance)
 * [Blog](https://github.com/brunopascoal/blog) - [Direct Link](Under Maintenance)
 * [Data Manipulation](https://github.com/brunopascoal/data_manipulation) -> [Access Data Manipulation](https://datamanipulation.streamlit.app/)
