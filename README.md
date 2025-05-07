@@ -20,11 +20,11 @@ Some personal study projects will be available in this repository. 🚀🧑‍�
 
 ### About Me
 
-I am a professional with 3 years of experience in Python. I have developed several solutions using Streamlit, Django, databases (MySQL and PostgreSQL), and automation scripts.
+I am a professional with 3 years of experience in Python. I have developed several solutions using Streamlit, Django, databases, and automation scripts.
 
 **I have experience with:**
-* SQL, Python (Django, Streamlit, Pandas, NumPy, Selenium)
-* Databases: MySQL
+* SQL, Python (Django, Docker, FastAPI, Streamlit, Pandas, NumPy, Selenium)
+* Databases: Postgresql
 * Version Control: Git and Github
 * Specialist in IdeaCaseware
 
